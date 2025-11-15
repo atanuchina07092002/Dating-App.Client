@@ -1,5 +1,6 @@
 export const environment = {
   production: true,
-  apiUrl: '/api/',
+  apiUrl:
+    'https://datingappapi-gfekgkgwbbgwczdh.canadacentral-01.azurewebsites.net/api/',
 };
 //production
